@@ -1,8 +1,12 @@
-steamID                     steamID3                    steamID64 (Dec)                   steamID64 (Hex)               Crime
+steamID                     steamID3                  steamID64 (Dec)                steamID64 (Hex)             Crime        State
 
-STEAM_0:1:432975142         [U:1:865950285]             76561198826216013                 1100001339d5a4d               T,C,TU
-STEAM_0:0:207812007         [U:1:415624014]             76561198375889742                 110000118c5eb4e               C
-STEAM_0:1:432106077         [U:1:864212155]             76561198824477883                 11000013382d4bb               TU
+STEAM_0:1:432975142         [U:1:865950285]           76561198826216013              1100001339d5a4d             T,C,TU       N/A
+STEAM_0:0:207812007         [U:1:415624014]           76561198375889742              110000118c5eb4e             C            N/A
+STEAM_0:1:432106077         [U:1:864212155]           76561198824477883              11000013382d4bb             TU,VAC       JPN
+STEAM_0:0:64285387          [U:1:128570774]           76561198088836502              110000107a9d596             T,TU, VAC    PL
+STEAM_0:0:173927754         [U:1:347855508]           76561198308121236              110000114bbda94             C            RUS
+STEAM_0:0:190199275         [U:1:380398550]           76561198340664278              110000116ac6bd6             TU,C         N/A
+
 
 
 Abbreviations
@@ -12,3 +16,4 @@ C = Camping (DbD)
 TU = Tunneling (DbD)
 S = Slugging (Dbd)
 I = Insult
+VAC = Cheating/Hacking
