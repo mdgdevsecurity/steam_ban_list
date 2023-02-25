@@ -1,0 +1,3 @@
+steamID                     steamID3                    steamID64 (Dec)                   steamID64 (Hex)
+
+STEAM_0:1:432975142         [U:1:865950285]             76561198826216013                 1100001339d5a4d
