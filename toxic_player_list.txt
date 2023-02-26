@@ -14,6 +14,6 @@ Abbreviations
 T = Toxic behavior (DbD)
 C = Camping (DbD)
 TU = Tunneling (DbD)
-S = Slugging (Dbd)
+S = Slugging (DbD)
 I = Insult
 VAC = Cheating/Hacking
