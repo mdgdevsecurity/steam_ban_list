@@ -18,3 +18,5 @@ TU = Tunneling (DbD)
 S = Slugging (DbD)
 I = Insult
 VAC = Cheating/Hacking
+
+Check on: https://www.steamidfinder.com/
