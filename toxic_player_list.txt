@@ -14,6 +14,10 @@ STEAM_0:0:460427713         [U:1:920855426]           76561198881121154         
 STEAM_0:0:48268095          [U:1:96536190]            76561198056801918              110000105c1067e             T            RUS
 STEAM_0:0:54690369          [U:1:109380738]           76561198069646466              110000106850482             C,T          RUS
 STEAM_0:1:510385331         [U:1:1020770663]          76561198981036391              11000013cd7b967             S,TU         DE
+STEAM_0:1:163970046         [U:1:327940093]           76561198288205821              1100001138bf7fd             T            GR
+STEAM_0:0:157208522         [U:1:314417044]           76561198274682772              110000112bd9f94             S            F
+STEAM_0:1:77232843          [U:1:154465687]           76561198114731415              11000010934f597             C,S,T        B
+STEAM_0:1:44408838          [U:1:88817677]            76561198049083405              1100001054b400d             C,T          N/A
 
 
 Abbreviations
@@ -25,4 +29,4 @@ T = Toxic behavior
 TU = Tunneling (DbD)
 VAC = Cheating/Hacking
 
-Check on: https://www.steamidfinder.com/
+Check on: https://www.steamidfinder.com/ or https://steamid.pro/lookup/
